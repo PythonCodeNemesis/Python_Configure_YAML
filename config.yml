@@ -1,0 +1,13 @@
+books:
+  - name: "The Catcher in the Rye"
+    description: "A story about a teenage boy named Holden Caulfield who is kicked out of his prep school and wanders around New York City."
+    pages: 224
+    genre: Fiction
+  - name: "To Kill a Mockingbird"
+    description: "A story about racial injustice in a small Alabama town during the 1930s."
+    pages: 336
+    genre: Fiction
+  - name: "The Elements of Style"
+    description: "A book about English language style and usage."
+    pages: 105
+    genre: Nonfiction
