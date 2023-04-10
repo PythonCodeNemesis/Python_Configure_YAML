@@ -1,0 +1,12 @@
+- name: "Book 1"
+  description: "This is book 1"
+  authors:
+    - "Author 1"
+    - "Author 2"
+  pages: 100
+- name: "Book 2"
+  description: "This is book 2"
+  authors:
+    - "Author 3"
+    - "Author 4"
+  pages: 200
